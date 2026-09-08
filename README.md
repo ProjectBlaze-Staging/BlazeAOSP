@@ -1,11 +1,11 @@
-# BlazeAOSP (Android 15 / 17.0)
+# BlazeAOSP (Android 17 / 17.0)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ProjectBlaze-Staging/android_vendor_blaze/17.0/overlay/common/frameworks/base/core/res/res/drawable-nodpi/default_wallpaper.png" alt="BlazeAOSP Banner" width="700" />
 </p>
 
 <p align="center">
-  <b>A performant, clean, and highly customizable Android Open Source Project distribution.</b>
+  <b>A performant, clean, and highly customizable Android Open Source Project distribution based on Android 17 (Lineage-24.0 base).</b>
 </p>
 
 ---
@@ -25,7 +25,7 @@ BlazeAOSP combines pure AOSP stability with essential power-user customizations 
 
 ## 📱 Device Compatibility & Partition Support (Cihaz Uyumluluğu)
 
-BlazeAOSP is designed to run on a wide variety of Android devices supporting Android 15 (AP4A base).
+BlazeAOSP is designed to run on a wide variety of Android devices supporting Android 17 (Lineage-24.0 base).
 
 ### Partition Layouts (A/B vs A-Only)
 * **Virtual A/B (VABC)**: Full native support for Android Virtual A/B with Compression for seamless background OTA updates without extra storage consumption.
