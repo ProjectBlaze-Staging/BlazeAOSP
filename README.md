@@ -62,7 +62,7 @@ To build BlazeAOSP from source, your workstation should meet the following minim
 mkdir -p ~/blaze && cd ~/blaze
 
 # Initialize BlazeAOSP 17.0 manifest
-repo init -u https://github.com/ProjectBlaze-Staging/BlazeAOSP.git -b 17.0
+repo init -u https://github.com/ProjectBlaze-Staging/blaze_manifest.git -b 17.0
 ```
 
 ### 2. Sync the Source Code
