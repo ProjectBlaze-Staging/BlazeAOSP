@@ -52,7 +52,7 @@ To build BlazeAOSP from source, your workstation should meet the following minim
 | **Storage** | 400 GB Free Space | 500 GB+ NVMe SSD |
 | **Java** | OpenJDK 17 | OpenJDK 17 |
 
-[**Upgrade to BlazeOS**]([blazeos.com.tr](https://github.com/DarkMorpheus-pc/Blaze-Galaxy))
+[**Upgrade to BlazeOS**](https://github.com/DarkMorpheus-pc/Blaze-Galaxy)
 
 ---
 
