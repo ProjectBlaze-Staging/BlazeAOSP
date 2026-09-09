@@ -15,7 +15,7 @@ BlazeAOSP is designed to run on a wide variety of Android devices supporting And
 
 ---
 
-## 💻 Hardware & Build Requirements (Sistem Gereksinimleri)
+## Hardware & Build Requirements
 
 To build BlazeAOSP from source, your workstation should meet the following minimum specs:
 
