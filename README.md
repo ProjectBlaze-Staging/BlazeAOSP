@@ -1,29 +1,4 @@
-# BlazeAOSP (Android 17 / 17.0)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ProjectBlaze-Staging/android_vendor_blaze/17.0/overlay/common/frameworks/base/core/res/res/drawable-nodpi/default_wallpaper.png" alt="BlazeAOSP Banner" width="700" />
-</p>
-
-<p align="center">
-  <b>A performant, clean, and highly customizable Android Open Source Project distribution based on Android 17 (Lineage-24.0 base).</b>
-</p>
-
----
-
-## 🌟 Key Features (Özellikler)
-
-BlazeAOSP combines pure AOSP stability with essential power-user customizations and performance optimizations:
-
-* **🏠 BlazeHouse Engine**: Dedicated customization dashboard seamlessly integrated into System Settings (`Settings.BlazeHouseActivity`).
-* **🔒 Native App Lock (Uygulama Kilidi)**: Built-in system-wide biometric and PIN protection for installed applications.
-* **🔋 Smart Charging (Akıllı Şarj Kontrolü)**: Advanced battery health protection with customizable charge cut-off thresholds (`charging_control_charging_limit`).
-* **🎮 Game Space Engine**: Performance tuning mode, notification suppression, touch responsiveness tweaks, and GPU booster.
-* **🌐 Web & System Stability**: Native integration with `com.android.webview` preventing browser crashes out-of-the-box.
-* **🎨 UI & Customizations**: Status bar clock positions, network traffic indicators, custom quick-settings tiles, custom wallpapers, and custom boot animation.
-
----
-
-## 📱 Device Compatibility & Partition Support (Cihaz Uyumluluğu)
+# BlazeAOSP (Android 17 / ProjectBlaze 5)
 
 BlazeAOSP is designed to run on a wide variety of Android devices supporting Android 17 (Lineage-24.0 base).
 
@@ -56,7 +31,7 @@ To build BlazeAOSP from source, your workstation should meet the following minim
 
 ---
 
-## 🚀 Building BlazeAOSP (Derleme Rehberi)
+## Building Blaze !
 
 ### 1. Initialize the Source Repository
 ```bash
@@ -86,7 +61,7 @@ m bacon -j$(nproc --all)
 
 ---
 
-## 📜 Credits & Acknowledgments
+## Credits & Acknowledgments
 
 * [**Android Open Source Project (AOSP)**](https://android.googlesource.com)
 * [**LineageOS**](https://github.com/LineageOS)
