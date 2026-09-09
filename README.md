@@ -46,11 +46,13 @@ To build BlazeAOSP from source, your workstation should meet the following minim
 
 | Component | Minimum Requirement | Recommended |
 | :--- | :--- | :--- |
-| **OS** | Linux (BlazeOS (Debian/Fedora series), Debian 12, Arch) | BlazeOS Debian/Fedora series |
+| **OS** | Linux (BlazeOS Debian/Fedora series, Debian 12, Arch) | BlazeOS Debian/Fedora series |
 | **CPU** | 8 Cores / 16 Threads | 16+ Cores (AMD Ryzen / Intel Core i7/i9) |
 | **RAM** | 16 GB (+ 16 GB Swap) | 32 GB – 64 GB RAM |
-| **Storage** | 300 GB Free Space | 500 GB+ NVMe SSD |
+| **Storage** | 400 GB Free Space | 500 GB+ NVMe SSD |
 | **Java** | OpenJDK 17 | OpenJDK 17 |
+
+[**Upgrade to BlazeOS**](blazeos.com.tr)
 
 ---
 
