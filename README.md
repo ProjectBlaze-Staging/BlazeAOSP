@@ -2,17 +2,6 @@
 
 BlazeAOSP is designed to run on a wide variety of Android devices supporting Android 17 (Lineage-24.0 base).
 
-### Partition Layouts (A/B vs A-Only)
-* **Virtual A/B (VABC)**: Full native support for Android Virtual A/B with Compression for seamless background OTA updates without extra storage consumption.
-* **Retrofit A/B**: Compatible with legacy devices retrofitted for A/B partitioning.
-* **A-Only Devices**: Fully supported via traditional single-partition device tree flags.
-* **Dynamic Partitions**: Native support for `system`, `system_ext`, `product`, `vendor`, and `odm` dynamic partitions.
-
-### Hardware & Architecture
-* **Architectures**: `arm64-v8a` (Primary target), `arm32` (Compatibility mode), `x86_64` (Emulator & Development).
-* **Project Treble & GSI**: Fully Treble-compliant. Can be built as a Generic System Image (GSI) for Treble-supported smartphones.
-* **Device Trees**: Works seamlessly with any standard AOSP / LineageOS device tree (`device/<vendor>/<codename>`).
-
 ---
 
 ## Hardware & Build Requirements
