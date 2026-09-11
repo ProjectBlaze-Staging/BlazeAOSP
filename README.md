@@ -24,7 +24,7 @@ repo sync -c --no-clone-bundle --no-tags --optimized-fetch --prune --force-sync 
 source build/envsetup.sh
 
 # Select your device target (replace <device_codename> with your device e.g. bluejay, cheetah, etc.)
-lunch lineage_<device_codename>-ap4a-userdebug
+lunch lineage_<device_codename>-cp2a-userdebug
 
 # Start compilation
 m bacon -j$(nproc --all)
