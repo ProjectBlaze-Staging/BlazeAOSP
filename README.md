@@ -1,16 +1,12 @@
 # BlazeAOSP (Android 17 / ProjectBlaze 5)
 
-BlazeAOSP is designed to run on a wide variety of Android devices supporting Android 17 (Lineage-24.0 base).
-
----
-
 ## Hardware & Build Requirements
 
 To build BlazeAOSP from source, your workstation should meet the following minimum specs:
 
 | Component | Minimum Requirement | Recommended |
 | :--- | :--- | :--- |
-| **OS** | Linux (BlazeOS Debian/Fedora series, Debian 12, Arch) | BlazeOS Debian/Fedora series |
+| **OS** | Linux (BlazeOS Debian/Fedora series, Debian 12, Arch , Ubuntu) | BlazeOS Debian/Fedora series |
 | **CPU** | 8 Cores / 16 Threads | 16+ Cores (AMD Ryzen / Intel Core i7/i9) |
 | **RAM** | 16 GB (+ 16 GB Swap) | 32 GB – 64 GB RAM |
 | **Storage** | 400 GB Free Space | 500 GB+ NVMe SSD |
